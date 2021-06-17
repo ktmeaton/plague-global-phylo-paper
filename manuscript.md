@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ktmeaton.github.io/plague-phylo-paper/" />
   <meta name="citation_pdf_url" content="https://ktmeaton.github.io/plague-phylo-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ktmeaton.github.io/plague-phylo-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ktmeaton.github.io/plague-phylo-paper/v/defe787b0ad8a21a745cc82c3117770896caaf8b/" />
-  <meta name="manubot_html_url_versioned" content="https://ktmeaton.github.io/plague-phylo-paper/v/defe787b0ad8a21a745cc82c3117770896caaf8b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ktmeaton.github.io/plague-phylo-paper/v/defe787b0ad8a21a745cc82c3117770896caaf8b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ktmeaton.github.io/plague-phylo-paper/v/a38ccddcc0cad94d6e4ecb29e9903a949b69ba2e/" />
+  <meta name="manubot_html_url_versioned" content="https://ktmeaton.github.io/plague-phylo-paper/v/a38ccddcc0cad94d6e4ecb29e9903a949b69ba2e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ktmeaton.github.io/plague-phylo-paper/v/a38ccddcc0cad94d6e4ecb29e9903a949b69ba2e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ktmeaton.github.io/plague-phylo-paper/v/defe787b0ad8a21a745cc82c3117770896caaf8b/))
+([permalink](https://ktmeaton.github.io/plague-phylo-paper/v/a38ccddcc0cad94d6e4ecb29e9903a949b69ba2e/))
 was automatically generated
-from [ktmeaton/plague-phylo-paper@defe787](https://github.com/ktmeaton/plague-phylo-paper/tree/defe787b0ad8a21a745cc82c3117770896caaf8b)
+from [ktmeaton/plague-phylo-paper@a38ccdd](https://github.com/ktmeaton/plague-phylo-paper/tree/a38ccddcc0cad94d6e4ecb29e9903a949b69ba2e)
 on June 17, 2021.
 </em></small>
 
