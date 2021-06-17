@@ -1,26 +1,44 @@
 ---
-title: "Manuscript Title"
+title: "Plagued by a cryptic clock"
+subtitle: "New insights from the global phylogeny of <i>Yersinia pestis</i>"
 keywords:
   - markdown
   - publishing
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - name: Katherine Eaton
+    github: ktmeaton
+    initials: KE
+    orcid: 0000-0001-6862-7756
+    email: ktmeaton@gmail.com
     affiliations:
-      - Department of Something, University of Whatever
+      - Ancient DNA Centre, McMaster University
+      - Department of Anthropology, McMaster University
     funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+      - Social Sciences and Humanities Research Council XXXXXXXX
+
+  - name: Leo Featherstone
+    github:
+    initials: LF
+    orcid: 0000-0002-8878-1758
+    email:
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - The Peter Doherty Institute For Infection and Immunity, University of Melbourne
+
+  - name: Sebastian Duchene
+    github: sebastianduchene
+    initials: SD
+    orcid: 0000-0002-2863-0907
+    email:
+    affiliations:
+      - The Peter Doherty Institute For Infection and Immunity, University of Melbourne    
+
+  - name: Hendrik Poinar
+    github:
+    initials: HNP
+    orcid: 0000-0002-0314-4160
+    email:
+    affiliations:
+      - Ancient DNA Centre, McMaster University
+      - Department of Anthropology, McMaster University
