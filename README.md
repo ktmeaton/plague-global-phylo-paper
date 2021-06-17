@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/ktmeaton/plague-global-phylo-paper/tree/gh-pages) branch hosts the contents of this directory at <https://ktmeaton.github.io/plague-global-phylo-paper/>.
-The permalink for this webpage version is <https://ktmeaton.github.io/plague-global-phylo-paper/v/8ad258504a5c600f422787d2f5d8b5eaea004efc/>.
+The permalink for this webpage version is <https://ktmeaton.github.io/plague-global-phylo-paper/v/1bdd68540ec6fb45f2a6f3899c154055c92e65af/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://ktmeaton.github.io/plague-global-phylo-paper/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`8ad258504a5c600f422787d2f5d8b5eaea004efc`](https://github.com/ktmeaton/plague-global-phylo-paper/commit/8ad258504a5c600f422787d2f5d8b5eaea004efc).
+[`1bdd68540ec6fb45f2a6f3899c154055c92e65af`](https://github.com/ktmeaton/plague-global-phylo-paper/commit/1bdd68540ec6fb45f2a6f3899c154055c92e65af).
