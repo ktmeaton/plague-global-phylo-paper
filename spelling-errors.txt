@@ -10,13 +10,13 @@ Centre
 centroid
 CIS
 clade
-Clades
+clades
 coli
 ComparativeEvolutionaryGenomics
 cov
 cui
 dataset
-datasets
+Datasets
 divtree
 Doherty
 Duchene
@@ -77,7 +77,7 @@ PhylogeographicSeparationFormation
 PhylogeographySecondPlague
 Poinar
 polytomy
-PRE
+pre
 pseudotuberculosis
 rascovan
 rtt

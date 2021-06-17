@@ -49,9 +49,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://ktmeaton.github.io/plague-global-phylo-paper/" />
   <meta name="citation_pdf_url" content="https://ktmeaton.github.io/plague-global-phylo-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://ktmeaton.github.io/plague-global-phylo-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://ktmeaton.github.io/plague-global-phylo-paper/v/1bdd68540ec6fb45f2a6f3899c154055c92e65af/" />
-  <meta name="manubot_html_url_versioned" content="https://ktmeaton.github.io/plague-global-phylo-paper/v/1bdd68540ec6fb45f2a6f3899c154055c92e65af/" />
-  <meta name="manubot_pdf_url_versioned" content="https://ktmeaton.github.io/plague-global-phylo-paper/v/1bdd68540ec6fb45f2a6f3899c154055c92e65af/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://ktmeaton.github.io/plague-global-phylo-paper/v/fcf343b35e567fa8abdb55d7810bb3ba51e3f915/" />
+  <meta name="manubot_html_url_versioned" content="https://ktmeaton.github.io/plague-global-phylo-paper/v/fcf343b35e567fa8abdb55d7810bb3ba51e3f915/" />
+  <meta name="manubot_pdf_url_versioned" content="https://ktmeaton.github.io/plague-global-phylo-paper/v/fcf343b35e567fa8abdb55d7810bb3ba51e3f915/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,9 +74,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://ktmeaton.github.io/plague-global-phylo-paper/v/1bdd68540ec6fb45f2a6f3899c154055c92e65af/))
+([permalink](https://ktmeaton.github.io/plague-global-phylo-paper/v/fcf343b35e567fa8abdb55d7810bb3ba51e3f915/))
 was automatically generated
-from [ktmeaton/plague-global-phylo-paper@1bdd685](https://github.com/ktmeaton/plague-global-phylo-paper/tree/1bdd68540ec6fb45f2a6f3899c154055c92e65af)
+from [ktmeaton/plague-global-phylo-paper@fcf343b](https://github.com/ktmeaton/plague-global-phylo-paper/tree/fcf343b35e567fa8abdb55d7810bb3ba51e3f915)
 on June 17, 2021.
 </em></small>
 
