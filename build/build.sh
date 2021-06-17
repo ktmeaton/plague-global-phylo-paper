@@ -77,7 +77,7 @@ if [ "${BUILD_PDF:-}" != "false" ] && [ -n "$DOCKER_RUNNING" ]; then
 fi
 
 # Create DOCX output (if BUILD_DOCX environment variable equals "true")
-if [ "${BUILD_DOCX:-}" = "true" ]; then
+if [ "${BUILD_DOCX:-}" != "false" ]; then
   echo >&2 "Exporting Word Docx manuscript"
   pandoc --verbose \
     --data-dir="$PANDOC_DATA_DIR" \
