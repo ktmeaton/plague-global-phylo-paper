@@ -1,1 +1,2973 @@
-[]
+[
+  {
+    "id": "puYDXtJ9",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          18
+        ]
+      ]
+    },
+    "genre": "C",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          18
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2014,
+          8,
+          21
+        ]
+      ]
+    },
+    "publisher": "NCBI - National Center for Biotechnology Information/NLM/NIH",
+    "source": "GitHub",
+    "title": "ncbi/sra-tools",
+    "type": "book",
+    "URL": "https://github.com/ncbi/sra-tools",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: NCBI2021SRAToolkit"
+  },
+  {
+    "id": "TV8iDhk7",
+    "author": [
+      {
+        "family": "Achtman",
+        "given": "M."
+      },
+      {
+        "family": "Zurth",
+        "given": "K."
+      },
+      {
+        "family": "Morelli",
+        "given": "G."
+      },
+      {
+        "family": "Torrea",
+        "given": "G."
+      },
+      {
+        "family": "Guiyoule",
+        "given": "A."
+      },
+      {
+        "family": "Carniel",
+        "given": "E."
+      }
+    ],
+    "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
+    "container-title-short": "Proc Natl Acad Sci U S A",
+    "DOI": "10.1073/pnas.96.24.14043",
+    "ISSN": "0027-8424",
+    "issue": "24",
+    "issued": {
+      "date-parts": [
+        [
+          1999,
+          11,
+          23
+        ]
+      ]
+    },
+    "language": "eng",
+    "page": "14043-14048",
+    "PMCID": "PMC24187",
+    "PMID": "10570195",
+    "source": "PubMed",
+    "title": "Yersinia pestis, the cause of plague, is a recently emerged clone of Yersinia pseudotuberculosis",
+    "type": "article-journal",
+    "volume": "96",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: achtman1999YersiniaPestisCause"
+  },
+  {
+    "id": "Vo6ReJPm",
+    "author": [
+      {
+        "family": "Andrades Valtueña",
+        "given": "Aida"
+      },
+      {
+        "family": "Mittnik",
+        "given": "Alissa"
+      },
+      {
+        "family": "Key",
+        "given": "Felix M."
+      },
+      {
+        "family": "Haak",
+        "given": "Wolfgang"
+      },
+      {
+        "family": "Allmäe",
+        "given": "Raili"
+      },
+      {
+        "family": "Belinskij",
+        "given": "Andrej"
+      },
+      {
+        "family": "Daubaras",
+        "given": "Mantas"
+      },
+      {
+        "family": "Feldman",
+        "given": "Michal"
+      },
+      {
+        "family": "Jankauskas",
+        "given": "Rimantas"
+      },
+      {
+        "family": "Janković",
+        "given": "Ivor"
+      },
+      {
+        "family": "Massy",
+        "given": "Ken"
+      },
+      {
+        "family": "Novak",
+        "given": "Mario"
+      },
+      {
+        "family": "Pfrengle",
+        "given": "Saskia"
+      },
+      {
+        "family": "Reinhold",
+        "given": "Sabine"
+      },
+      {
+        "family": "Šlaus",
+        "given": "Mario"
+      },
+      {
+        "family": "Spyrou",
+        "given": "Maria A."
+      },
+      {
+        "family": "Szécsényi-Nagy",
+        "given": "Anna"
+      },
+      {
+        "family": "Tõrv",
+        "given": "Mari"
+      },
+      {
+        "family": "Hansen",
+        "given": "Svend"
+      },
+      {
+        "family": "Bos",
+        "given": "Kirsten I."
+      },
+      {
+        "family": "Stockhammer",
+        "given": "Philipp W."
+      },
+      {
+        "family": "Herbig",
+        "given": "Alexander"
+      },
+      {
+        "family": "Krause",
+        "given": "Johannes"
+      }
+    ],
+    "container-title": "Current Biology",
+    "container-title-short": "Curr. Biol.",
+    "DOI": "10.1016/j.cub.2017.10.025",
+    "ISSN": "1879-0445",
+    "issue": "23",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          4
+        ]
+      ]
+    },
+    "language": "eng",
+    "page": "3683-3691.e8",
+    "PMID": "29174893",
+    "source": "PubMed",
+    "title": "The Stone Age Plague and Its Persistence in Eurasia",
+    "type": "article-journal",
+    "volume": "27",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: andradesvaltuena2017StoneAgePlague"
+  },
+  {
+    "id": "13ET92iS0",
+    "author": [
+      {
+        "family": "Benedictow",
+        "given": "O.J."
+      }
+    ],
+    "event-place": "Woodbridge, Suffolk, United Kingdom",
+    "ISBN": "0-85115-943-5",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "publisher": "Boydell Press",
+    "publisher-place": "Woodbridge, Suffolk, United Kingdom",
+    "title": "The Black Death, 1346-1353: The Complete History",
+    "type": "book",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: benedictow2004BlackDeath13461353"
+  },
+  {
+    "id": "Nd9WUU1j",
+    "author": [
+      {
+        "family": "Bertherat",
+        "given": "Eric"
+      }
+    ],
+    "container-title": "Weekly Epidemiological Record",
+    "container-title-short": "Weekly Epidemiol Rec",
+    "issue": "25",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          21
+        ]
+      ]
+    },
+    "page": "289 - 292",
+    "publisher": "World Health Organization = Organisation mondiale de la Santé",
+    "title": "Plague around the world in 2019",
+    "type": "article-journal",
+    "URL": "https://apps.who.int/iris/bitstream/handle/10665/325481/WER9425-en-fr.pdf",
+    "volume": "94",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: bertherat2019PlagueWorld2019"
+  },
+  {
+    "id": "ONhNS9aO",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          9,
+          16
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Cui",
+        "given": "Y."
+      },
+      {
+        "family": "Yu",
+        "given": "C."
+      },
+      {
+        "family": "Yan",
+        "given": "Y."
+      },
+      {
+        "family": "Li",
+        "given": "D."
+      },
+      {
+        "family": "Li",
+        "given": "Y."
+      },
+      {
+        "family": "Jombart",
+        "given": "T."
+      },
+      {
+        "family": "Weinert",
+        "given": "L. A."
+      },
+      {
+        "family": "Wang",
+        "given": "Z."
+      },
+      {
+        "family": "Guo",
+        "given": "Z."
+      },
+      {
+        "family": "Xu",
+        "given": "L."
+      },
+      {
+        "family": "Zhang",
+        "given": "Y."
+      },
+      {
+        "family": "Zheng",
+        "given": "H."
+      },
+      {
+        "family": "Qin",
+        "given": "N."
+      },
+      {
+        "family": "Xiao",
+        "given": "X."
+      },
+      {
+        "family": "Wu",
+        "given": "M."
+      },
+      {
+        "family": "Wang",
+        "given": "X."
+      },
+      {
+        "family": "Zhou",
+        "given": "D."
+      },
+      {
+        "family": "Qi",
+        "given": "Z."
+      },
+      {
+        "family": "Du",
+        "given": "Z."
+      },
+      {
+        "family": "Wu",
+        "given": "H."
+      },
+      {
+        "family": "Yang",
+        "given": "X."
+      },
+      {
+        "family": "Cao",
+        "given": "H."
+      },
+      {
+        "family": "Wang",
+        "given": "H."
+      },
+      {
+        "family": "Wang",
+        "given": "J."
+      },
+      {
+        "family": "Yao",
+        "given": "S."
+      },
+      {
+        "family": "Rakin",
+        "given": "A."
+      },
+      {
+        "family": "Li",
+        "given": "Y."
+      },
+      {
+        "family": "Falush",
+        "given": "D."
+      },
+      {
+        "family": "Balloux",
+        "given": "F."
+      },
+      {
+        "family": "Achtman",
+        "given": "M."
+      },
+      {
+        "family": "Song",
+        "given": "Y."
+      },
+      {
+        "family": "Wang",
+        "given": "J."
+      },
+      {
+        "family": "Yang",
+        "given": "R."
+      }
+    ],
+    "container-title": "Proceedings of the National Academy of Sciences",
+    "DOI": "10.1073/pnas.1205750110",
+    "ISSN": "0027-8424, 1091-6490",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          1,
+          8
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "577-582",
+    "source": "Crossref",
+    "title": "Historical variations in mutation rate in an epidemic pathogen, <i>Yersinia pestis</i>",
+    "type": "article-journal",
+    "URL": "http://www.pnas.org/cgi/doi/10.1073/pnas.1205750110",
+    "volume": "110",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: cui2013HistoricalVariationsMutation"
+  },
+  {
+    "id": "15WOrftK3",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          2
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Devignat",
+        "given": "R."
+      }
+    ],
+    "container-title": "Bulletin of the World Health Organization",
+    "container-title-short": "Bull World Health Organ",
+    "ISSN": "0042-9686",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          1951
+        ]
+      ]
+    },
+    "page": "247-263",
+    "PMCID": "PMC2554099",
+    "PMID": "14859080",
+    "source": "PubMed Central",
+    "title": "Variétés de l'espèce Pasteurella pestis",
+    "type": "article-journal",
+    "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2554099/",
+    "volume": "4",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: devignat1951VarietesEspecePasteurella"
+  },
+  {
+    "id": "1cTipQcd",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          26
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Duchêne",
+        "given": "Sebastian"
+      },
+      {
+        "family": "Holt",
+        "given": "Kathryn E."
+      },
+      {
+        "family": "Weill",
+        "given": "François-Xavier"
+      },
+      {
+        "family": "Le Hello",
+        "given": "Simon"
+      },
+      {
+        "family": "Hawkey",
+        "given": "Jane"
+      },
+      {
+        "family": "Edwards",
+        "given": "David J."
+      },
+      {
+        "family": "Fourment",
+        "given": "Mathieu"
+      },
+      {
+        "family": "Holmes",
+        "given": "Edward C."
+      }
+    ],
+    "container-title": "Microbial Genomics",
+    "container-title-short": "Microb Genom",
+    "DOI": "10.1099/mgen.0.000094",
+    "ISSN": "2057-5858",
+    "issue": "11",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          30
+        ]
+      ]
+    },
+    "PMCID": "PMC5320706",
+    "PMID": "28348834",
+    "source": "PubMed Central",
+    "title": "Genome-scale rates of evolutionary change in bacteria",
+    "type": "article-journal",
+    "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5320706/",
+    "volume": "2",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: duchene2016GenomescaleRatesEvolutionary"
+  },
+  {
+    "id": "zikRADit",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          7
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Duchene",
+        "given": "Sebastian"
+      },
+      {
+        "family": "Lemey",
+        "given": "Philippe"
+      },
+      {
+        "family": "Stadler",
+        "given": "Tanja"
+      },
+      {
+        "family": "Ho",
+        "given": "Simon Y W"
+      },
+      {
+        "family": "Duchene",
+        "given": "David A"
+      },
+      {
+        "family": "Dhanasekaran",
+        "given": "Vijaykrishna"
+      },
+      {
+        "family": "Baele",
+        "given": "Guy"
+      }
+    ],
+    "container-title": "Molecular Biology and Evolution",
+    "container-title-short": "Molecular Biology and Evolution",
+    "DOI": "10.1093/molbev/msaa163",
+    "ISSN": "0737-4038",
+    "issue": "11",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          1
+        ]
+      ]
+    },
+    "page": "3363-3379",
+    "source": "Silverchair",
+    "title": "Bayesian Evaluation of Temporal Signal in Measurably Evolving Populations",
+    "type": "article-journal",
+    "URL": "https://doi.org/10.1093/molbev/msaa163",
+    "volume": "37",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: duchene2020BayesianEvaluationTemporal"
+  },
+  {
+    "id": "6YubepsW",
+    "author": [
+      {
+        "family": "Eaton",
+        "given": "Katherine"
+      }
+    ],
+    "container-title": "Journal of Open Source Software",
+    "DOI": "10.21105/joss.01990",
+    "issue": "46",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "1990",
+    "publisher": "The Open Journal",
+    "title": "NCBImeta: efficient and comprehensive metadata retrieval from NCBI databases",
+    "type": "article-journal",
+    "URL": "https://doi.org/10.21105/joss.01990",
+    "volume": "5",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: eaton2020NCBImetaEfficientComprehensive"
+  },
+  {
+    "id": "3aFEkVra",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          22
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Eroshenko",
+        "given": "Galina A."
+      },
+      {
+        "family": "Popov",
+        "given": "Nikolay V."
+      },
+      {
+        "family": "Al’khova",
+        "given": "Zhanna V."
+      },
+      {
+        "family": "Kukleva",
+        "given": "Lyubov M."
+      },
+      {
+        "family": "Balykova",
+        "given": "Alina N."
+      },
+      {
+        "family": "Chervyakova",
+        "given": "Nadezhda S."
+      },
+      {
+        "family": "Naryshkina",
+        "given": "Ekaterina A."
+      },
+      {
+        "family": "Kutyrev",
+        "given": "Vladimir V."
+      }
+    ],
+    "container-title": "PLOS ONE",
+    "container-title-short": "PLOS ONE",
+    "DOI": "10.1371/journal.pone.0244615",
+    "ISSN": "1932-6203",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          11
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "e0244615",
+    "publisher": "Public Library of Science",
+    "source": "PLoS Journals",
+    "title": "Evolution and circulation of Yersinia pestis in the Northern Caspian and Northern Aral Sea regions in the 20th-21st centuries",
+    "type": "article-journal",
+    "URL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244615",
+    "volume": "16",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: eroshenko2021EvolutionCirculationYersinia"
+  },
+  {
+    "id": "hxWSqZgm",
+    "author": [
+      {
+        "family": "Esmukov",
+        "given": "Kostya"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          12
+        ]
+      ]
+    },
+    "title": "GeoPy: A  Python client for several popular geocoding web services.",
+    "type": "book",
+    "URL": "https://github.com/geopy/geopy",
+    "version": "2.1.0",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: esmukov2020GeoPyPythonClient"
+  },
+  {
+    "id": "kQFNGkNf",
+    "author": [
+      {
+        "family": "Gage",
+        "given": "K"
+      },
+      {
+        "family": "Kosoy",
+        "given": "M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "213-231",
+    "title": "Recent trends in plague ecology",
+    "type": "article-journal",
+    "URL": "http://reviverestore.org/wp-content/uploads/2015/02/Gage-and-Kosoy_USGS-Blk-footed-ferret-symp_2006-copy.pdf",
+    "volume": "USG Survey",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: gage2006RecentTrendsPlague"
+  },
+  {
+    "id": "qLAL8Don",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          2
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Green",
+        "given": "Monica H."
+      }
+    ],
+    "container-title": "The Lancet Microbe",
+    "container-title-short": "The Lancet Microbe",
+    "DOI": "10.1016/S2666-5247(20)30176-2",
+    "ISSN": "2666-5247",
+    "issue": "8",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          1
+        ]
+      ]
+    },
+    "language": "English",
+    "page": "e311-e312",
+    "publisher": "Elsevier",
+    "source": "www.thelancet.com",
+    "title": "How a microbe becomes a pandemic: a new story of the Black Death",
+    "title-short": "How a microbe becomes a pandemic",
+    "type": "article-journal",
+    "URL": "https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30176-2/abstract",
+    "volume": "1",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: green2020HowMicrobeBecomes"
+  },
+  {
+    "id": "12SvE6y3A",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          22
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Hoang",
+        "given": "Diep Thi"
+      },
+      {
+        "family": "Chernomor",
+        "given": "Olga"
+      },
+      {
+        "family": "Haeseler",
+        "given": "Arndt",
+        "non-dropping-particle": "von"
+      },
+      {
+        "family": "Minh",
+        "given": "Bui Quang"
+      },
+      {
+        "family": "Vinh",
+        "given": "Le Sy"
+      }
+    ],
+    "container-title": "Molecular Biology and Evolution",
+    "DOI": "10.1093/molbev/msx281",
+    "ISSN": "0737-4038, 1537-1719",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          2,
+          1
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "518-522",
+    "source": "DOI.org (Crossref)",
+    "title": "UFBoot2: Improving the Ultrafast Bootstrap Approximation",
+    "title-short": "UFBoot2",
+    "type": "article-journal",
+    "URL": "https://academic.oup.com/mbe/article/35/2/518/4565479",
+    "volume": "35",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: hoang2018UFBoot2ImprovingUltrafast"
+  },
+  {
+    "id": "M15a78x5",
+    "author": [
+      {
+        "family": "Hoffman",
+        "given": "Sarah"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          12
+        ]
+      ]
+    },
+    "title": "Nominatim: A tool to search OpenStreetMap data.",
+    "type": "book",
+    "URL": "https://github.com/osm-search/Nominatim",
+    "version": "3.6.0",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: hoffman2020NominatimToolSearch"
+  },
+  {
+    "id": "QZIPWLUx",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          16
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Kalyaanamoorthy",
+        "given": "Subha"
+      },
+      {
+        "family": "Minh",
+        "given": "Bui Quang"
+      },
+      {
+        "family": "Wong",
+        "given": "Thomas K. F."
+      },
+      {
+        "family": "Haeseler",
+        "given": "Arndt",
+        "non-dropping-particle": "von"
+      },
+      {
+        "family": "Jermiin",
+        "given": "Lars S."
+      }
+    ],
+    "container-title": "Nature Methods",
+    "DOI": "10.1038/nmeth.4285",
+    "ISSN": "1548-7105",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          6
+        ]
+      ]
+    },
+    "language": "en",
+    "number": "6",
+    "page": "587-589",
+    "publisher": "Nature Publishing Group",
+    "source": "www-nature-com.libaccess.lib.mcmaster.ca",
+    "title": "ModelFinder: fast model selection for accurate phylogenetic estimates",
+    "title-short": "ModelFinder",
+    "type": "article-journal",
+    "URL": "http://www.nature.com/articles/nmeth.4285",
+    "volume": "14",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: kalyaanamoorthy2017ModelFinderFastModel"
+  },
+  {
+    "id": "19LMpiGZs",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          4
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Keller",
+        "given": "Marcel"
+      },
+      {
+        "family": "Spyrou",
+        "given": "Maria A."
+      },
+      {
+        "family": "Scheib",
+        "given": "Christiana L."
+      },
+      {
+        "family": "Neumann",
+        "given": "Gunnar U."
+      },
+      {
+        "family": "Kröpelin",
+        "given": "Andreas"
+      },
+      {
+        "family": "Haas-Gebhard",
+        "given": "Brigitte"
+      },
+      {
+        "family": "Päffgen",
+        "given": "Bernd"
+      },
+      {
+        "family": "Haberstroh",
+        "given": "Jochen"
+      },
+      {
+        "family": "Lacomba",
+        "given": "Albert Ribera",
+        "dropping-particle": "i"
+      },
+      {
+        "family": "Raynaud",
+        "given": "Claude"
+      },
+      {
+        "family": "Cessford",
+        "given": "Craig"
+      },
+      {
+        "family": "Durand",
+        "given": "Raphaël"
+      },
+      {
+        "family": "Stadler",
+        "given": "Peter"
+      },
+      {
+        "family": "Nägele",
+        "given": "Kathrin"
+      },
+      {
+        "family": "Bates",
+        "given": "Jessica S."
+      },
+      {
+        "family": "Trautmann",
+        "given": "Bernd"
+      },
+      {
+        "family": "Inskip",
+        "given": "Sarah A."
+      },
+      {
+        "family": "Peters",
+        "given": "Joris"
+      },
+      {
+        "family": "Robb",
+        "given": "John E."
+      },
+      {
+        "family": "Kivisild",
+        "given": "Toomas"
+      },
+      {
+        "family": "Castex",
+        "given": "Dominique"
+      },
+      {
+        "family": "McCormick",
+        "given": "Michael"
+      },
+      {
+        "family": "Bos",
+        "given": "Kirsten I."
+      },
+      {
+        "family": "Harbeck",
+        "given": "Michaela"
+      },
+      {
+        "family": "Herbig",
+        "given": "Alexander"
+      },
+      {
+        "family": "Krause",
+        "given": "Johannes"
+      }
+    ],
+    "container-title": "Proceedings of the National Academy of Sciences",
+    "container-title-short": "PNAS",
+    "DOI": "10.1073/pnas.1820447116",
+    "ISSN": "0027-8424, 1091-6490",
+    "issue": "25",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          18
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "12363-12372",
+    "PMID": "31164419",
+    "publisher": "National Academy of Sciences",
+    "section": "PNAS Plus",
+    "source": "www.pnas.org",
+    "title": "Ancient <i>Yersinia pestis</i> genomes from across Western Europe reveal early diversification during the First Pandemic (541–750)",
+    "type": "article-journal",
+    "URL": "https://www.pnas.org/content/116/25/12363",
+    "volume": "116",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: keller2019AncientYersiniaPestis"
+  },
+  {
+    "id": "S7uUqUQG",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          8
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Kutyrev",
+        "given": "Vladimir V."
+      },
+      {
+        "family": "Eroshenko",
+        "given": "Galina A."
+      },
+      {
+        "family": "Motin",
+        "given": "Vladimir L."
+      },
+      {
+        "family": "Nosov",
+        "given": "Nikita Y."
+      },
+      {
+        "family": "Krasnov",
+        "given": "Jaroslav M."
+      },
+      {
+        "family": "Kukleva",
+        "given": "Lyubov M."
+      },
+      {
+        "family": "Nikiforov",
+        "given": "Konstantin A."
+      },
+      {
+        "family": "Al’khova",
+        "given": "Zhanna V."
+      },
+      {
+        "family": "Oglodin",
+        "given": "Eugene G."
+      },
+      {
+        "family": "Guseva",
+        "given": "Natalia P."
+      }
+    ],
+    "container-title": "Frontiers in Microbiology",
+    "DOI": "10.3389/fmicb.2018.01106",
+    "ISSN": "1664-302X",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          25
+        ]
+      ]
+    },
+    "language": "en",
+    "source": "Crossref",
+    "title": "Phylogeny and classification of <i>Yersinia pestis</i> through the lens of strains From the plague foci of Commonwealth of Independent States",
+    "type": "article-journal",
+    "URL": "https://www.frontiersin.org/article/10.3389/fmicb.2018.01106/full",
+    "volume": "9",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: kutyrev2018PhylogenyClassificationYersinia"
+  },
+  {
+    "id": "RrDa6yZx",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          8
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Laukkanen-Ninios",
+        "given": "Riikka"
+      },
+      {
+        "family": "Didelot",
+        "given": "Xavier"
+      },
+      {
+        "family": "Jolley",
+        "given": "Keith A."
+      },
+      {
+        "family": "Morelli",
+        "given": "Giovanna"
+      },
+      {
+        "family": "Sangal",
+        "given": "Vartul"
+      },
+      {
+        "family": "Kristo",
+        "given": "Paula"
+      },
+      {
+        "family": "Imori",
+        "given": "Priscilla F. M."
+      },
+      {
+        "family": "Fukushima",
+        "given": "Hiroshi"
+      },
+      {
+        "family": "Siitonen",
+        "given": "Anja"
+      },
+      {
+        "family": "Tseneva",
+        "given": "Galina"
+      },
+      {
+        "family": "Voskressenskaya",
+        "given": "Ekaterina"
+      },
+      {
+        "family": "Falcao",
+        "given": "Juliana P."
+      },
+      {
+        "family": "Korkeala",
+        "given": "Hannu"
+      },
+      {
+        "family": "Maiden",
+        "given": "Martin C. J."
+      },
+      {
+        "family": "Mazzoni",
+        "given": "Camila"
+      },
+      {
+        "family": "Carniel",
+        "given": "Elisabeth"
+      },
+      {
+        "family": "Skurnik",
+        "given": "Mikael"
+      },
+      {
+        "family": "Achtman",
+        "given": "Mark"
+      }
+    ],
+    "container-title": "Environmental microbiology",
+    "container-title-short": "Environ Microbiol",
+    "DOI": "10.1111/j.1462-2920.2011.02588.x",
+    "ISSN": "1462-2912",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          12
+        ]
+      ]
+    },
+    "page": "3114-3127",
+    "PMCID": "PMC3988354",
+    "PMID": "21951486",
+    "source": "PubMed Central",
+    "title": "Population structure of the Yersinia pseudotuberculosis complex according to multilocus sequence typing",
+    "type": "article-journal",
+    "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3988354/",
+    "volume": "13",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: laukkanen-ninios2011PopulationStructureYersinia"
+  },
+  {
+    "id": "66GmpEaG",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          26
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Li",
+        "given": "Yanjun"
+      },
+      {
+        "family": "Cui",
+        "given": "Yujun"
+      },
+      {
+        "family": "Hauck",
+        "given": "Yolande"
+      },
+      {
+        "family": "Platonov",
+        "given": "Mikhail E."
+      },
+      {
+        "family": "Dai",
+        "given": "Erhei"
+      },
+      {
+        "family": "Song",
+        "given": "Yajun"
+      },
+      {
+        "family": "Guo",
+        "given": "Zhaobiao"
+      },
+      {
+        "family": "Pourcel",
+        "given": "Christine"
+      },
+      {
+        "family": "Dentovskaya",
+        "given": "Svetlana V."
+      },
+      {
+        "family": "Anisimov",
+        "given": "Andrey P."
+      },
+      {
+        "family": "Yang",
+        "given": "Ruifu"
+      },
+      {
+        "family": "Vergnaud",
+        "given": "Gilles"
+      }
+    ],
+    "container-title": "PLOS ONE",
+    "container-title-short": "PLOS ONE",
+    "DOI": "10.1371/journal.pone.0006000",
+    "ISSN": "1932-6203",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          6,
+          22
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "e6000",
+    "publisher": "Public Library of Science",
+    "source": "PLoS Journals",
+    "title": "Genotyping and Phylogenetic Analysis of Yersinia pestis by MLVA: Insights into the Worldwide Expansion of Central Asia Plague Foci",
+    "title-short": "Genotyping and Phylogenetic Analysis of Yersinia pestis by MLVA",
+    "type": "article-journal",
+    "URL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006000",
+    "volume": "4",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: li2009GenotypingPhylogeneticAnalysis"
+  },
+  {
+    "id": "mkkgRhHT",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          16
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Minh",
+        "given": "Bui Quang"
+      },
+      {
+        "family": "Schmidt",
+        "given": "Heiko A."
+      },
+      {
+        "family": "Chernomor",
+        "given": "Olga"
+      },
+      {
+        "family": "Schrempf",
+        "given": "Dominik"
+      },
+      {
+        "family": "Woodhams",
+        "given": "Michael D."
+      },
+      {
+        "family": "Haeseler",
+        "given": "Arndt",
+        "non-dropping-particle": "von"
+      },
+      {
+        "family": "Lanfear",
+        "given": "Robert"
+      }
+    ],
+    "container-title": "Molecular Biology and Evolution",
+    "container-title-short": "Mol Biol Evol",
+    "DOI": "10.1093/molbev/msaa015",
+    "ISSN": "0737-4038",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          1
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "1530-1534",
+    "publisher": "Oxford Academic",
+    "source": "academic.oup.com",
+    "title": "IQ-TREE 2: New Models and Efficient Methods for Phylogenetic Inference in the Genomic Era",
+    "title-short": "IQ-TREE 2",
+    "type": "article-journal",
+    "URL": "https://academic.oup.com/mbe/article/37/5/1530/5721363",
+    "volume": "37",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: minh2020IQTREENewModels"
+  },
+  {
+    "id": "Y4CIJOZW",
+    "author": [
+      {
+        "family": "Morelli",
+        "given": "Giovanna"
+      },
+      {
+        "family": "Song",
+        "given": "Yajun"
+      },
+      {
+        "family": "Mazzoni",
+        "given": "Camila J."
+      },
+      {
+        "family": "Eppinger",
+        "given": "Mark"
+      },
+      {
+        "family": "Roumagnac",
+        "given": "Philippe"
+      },
+      {
+        "family": "Wagner",
+        "given": "David M."
+      },
+      {
+        "family": "Feldkamp",
+        "given": "Mirjam"
+      },
+      {
+        "family": "Kusecek",
+        "given": "Barica"
+      },
+      {
+        "family": "Vogler",
+        "given": "Amy J."
+      },
+      {
+        "family": "Li",
+        "given": "Yanjun"
+      },
+      {
+        "family": "Cui",
+        "given": "Yujun"
+      },
+      {
+        "family": "Thomson",
+        "given": "Nicholas R."
+      },
+      {
+        "family": "Jombart",
+        "given": "Thibaut"
+      },
+      {
+        "family": "Leblois",
+        "given": "Raphael"
+      },
+      {
+        "family": "Lichtner",
+        "given": "Peter"
+      },
+      {
+        "family": "Rahalison",
+        "given": "Lila"
+      },
+      {
+        "family": "Petersen",
+        "given": "Jeannine M."
+      },
+      {
+        "family": "Balloux",
+        "given": "Francois"
+      },
+      {
+        "family": "Keim",
+        "given": "Paul"
+      },
+      {
+        "family": "Wirth",
+        "given": "Thierry"
+      },
+      {
+        "family": "Ravel",
+        "given": "Jacques"
+      },
+      {
+        "family": "Yang",
+        "given": "Ruifu"
+      },
+      {
+        "family": "Carniel",
+        "given": "Elisabeth"
+      },
+      {
+        "family": "Achtman",
+        "given": "Mark"
+      }
+    ],
+    "container-title": "Nature Genetics",
+    "container-title-short": "Nat. Genet.",
+    "DOI": "10.1038/ng.705",
+    "ISSN": "1546-1718",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          12
+        ]
+      ]
+    },
+    "language": "eng",
+    "page": "1140-1143",
+    "PMCID": "PMC2999892",
+    "PMID": "21037571",
+    "source": "PubMed",
+    "title": "<i>Yersinia pestis</i> genome sequencing identifies patterns of global phylogenetic diversity",
+    "type": "article-journal",
+    "volume": "42",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: morelli2010YersiniaPestisGenome"
+  },
+  {
+    "id": "5rCiNisz",
+    "author": [
+      {
+        "literal": "OpenStreetMap Contributors"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "Planet dump retrieved from https://planet.osm.org",
+    "type": "article-journal",
+    "URL": "https://www.openstreetmap.org",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: openstreetmapcontributors2017PlanetDumpRetrieved"
+  },
+  {
+    "id": "uM6Rh5Fu",
+    "author": [
+      {
+        "family": "Perry",
+        "given": "R. D."
+      },
+      {
+        "family": "Fetherston",
+        "given": "J. D."
+      }
+    ],
+    "container-title": "Clinical Microbiology Reviews",
+    "container-title-short": "Clin. Microbiol. Rev.",
+    "ISSN": "0893-8512",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1997,
+          1
+        ]
+      ]
+    },
+    "language": "eng",
+    "page": "35-66",
+    "PMCID": "PMC172914",
+    "PMID": "8993858",
+    "source": "PubMed",
+    "title": "Yersinia pestis--etiologic agent of plague",
+    "type": "article-journal",
+    "volume": "10",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: perry1997YersiniaPestisEtiologic"
+  },
+  {
+    "id": "HqSIHWsh",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          2
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Qi",
+        "given": "Zhizhen"
+      },
+      {
+        "family": "Cui",
+        "given": "Yujun"
+      },
+      {
+        "family": "Zhang",
+        "given": "Qingwen"
+      },
+      {
+        "family": "Yang",
+        "given": "Ruifu"
+      }
+    ],
+    "collection-title": "Advances in Experimental Medicine and Biology",
+    "container-title": "Yersinia pestis: Retrospective and Perspective",
+    "DOI": "10.1007/978-94-024-0890-4_3",
+    "editor": [
+      {
+        "family": "Yang",
+        "given": "Ruifu"
+      },
+      {
+        "family": "Anisimov",
+        "given": "Andrey"
+      }
+    ],
+    "event-place": "Dordrecht",
+    "ISBN": "978-94-024-0890-4",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "35-78",
+    "publisher": "Springer Netherlands",
+    "publisher-place": "Dordrecht",
+    "source": "Springer Link",
+    "title": "Taxonomy of Yersinia pestis",
+    "type": "chapter",
+    "URL": "https://doi.org/10.1007/978-94-024-0890-4_3",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: qi2016TaxonomyYersiniaPestis"
+  },
+  {
+    "id": "AQa9Tn4j",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          29
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Rascovan",
+        "given": "Nicolás"
+      },
+      {
+        "family": "Sjögren",
+        "given": "Karl-Göran"
+      },
+      {
+        "family": "Kristiansen",
+        "given": "Kristian"
+      },
+      {
+        "family": "Nielsen",
+        "given": "Rasmus"
+      },
+      {
+        "family": "Willerslev",
+        "given": "Eske"
+      },
+      {
+        "family": "Desnues",
+        "given": "Christelle"
+      },
+      {
+        "family": "Rasmussen",
+        "given": "Simon"
+      }
+    ],
+    "container-title": "Cell",
+    "container-title-short": "Cell",
+    "DOI": "10.1016/j.cell.2018.11.005",
+    "ISSN": "0092-8674, 1097-4172",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          10
+        ]
+      ]
+    },
+    "language": "English",
+    "page": "295-305.e10",
+    "PMID": "30528431",
+    "publisher": "Elsevier",
+    "source": "www.cell.com",
+    "title": "Emergence and spread of basal lineages of <i>Yersinia pestis</i> during the Neolithic Decline",
+    "type": "article-journal",
+    "URL": "https://www.cell.com/cell/abstract/S0092-8674(18)31464-8",
+    "volume": "176",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: rascovan2019EmergenceSpreadBasal"
+  },
+  {
+    "id": "ZvyYZ3sx",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          10
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Rasmussen",
+        "given": "Simon"
+      },
+      {
+        "family": "Allentoft",
+        "given": "Morten Erik"
+      },
+      {
+        "family": "Nielsen",
+        "given": "Kasper"
+      },
+      {
+        "family": "Orlando",
+        "given": "Ludovic"
+      },
+      {
+        "family": "Sikora",
+        "given": "Martin"
+      },
+      {
+        "family": "Sjögren",
+        "given": "Karl-Göran"
+      },
+      {
+        "family": "Pedersen",
+        "given": "Anders Gorm"
+      },
+      {
+        "family": "Schubert",
+        "given": "Mikkel"
+      },
+      {
+        "family": "Van Dam",
+        "given": "Alex"
+      },
+      {
+        "family": "Kapel",
+        "given": "Christian Moliin Outzen"
+      },
+      {
+        "family": "Nielsen",
+        "given": "Henrik Bjørn"
+      },
+      {
+        "family": "Brunak",
+        "given": "Søren"
+      },
+      {
+        "family": "Avetisyan",
+        "given": "Pavel"
+      },
+      {
+        "family": "Epimakhov",
+        "given": "Andrey"
+      },
+      {
+        "family": "Khalyapin",
+        "given": "Mikhail Viktorovich"
+      },
+      {
+        "family": "Gnuni",
+        "given": "Artak"
+      },
+      {
+        "family": "Kriiska",
+        "given": "Aivar"
+      },
+      {
+        "family": "Lasak",
+        "given": "Irena"
+      },
+      {
+        "family": "Metspalu",
+        "given": "Mait"
+      },
+      {
+        "family": "Moiseyev",
+        "given": "Vyacheslav"
+      },
+      {
+        "family": "Gromov",
+        "given": "Andrei"
+      },
+      {
+        "family": "Pokutta",
+        "given": "Dalia"
+      },
+      {
+        "family": "Saag",
+        "given": "Lehti"
+      },
+      {
+        "family": "Varul",
+        "given": "Liivi"
+      },
+      {
+        "family": "Yepiskoposyan",
+        "given": "Levon"
+      },
+      {
+        "family": "Sicheritz-Pontén",
+        "given": "Thomas"
+      },
+      {
+        "family": "Foley",
+        "given": "Robert A."
+      },
+      {
+        "family": "Lahr",
+        "given": "Marta Mirazón"
+      },
+      {
+        "family": "Nielsen",
+        "given": "Rasmus"
+      },
+      {
+        "family": "Kristiansen",
+        "given": "Kristian"
+      },
+      {
+        "family": "Willerslev",
+        "given": "Eske"
+      }
+    ],
+    "container-title": "Cell",
+    "container-title-short": "Cell",
+    "DOI": "10.1016/j.cell.2015.10.009",
+    "ISSN": "0092-8674",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          10,
+          22
+        ]
+      ]
+    },
+    "page": "571-582",
+    "PMCID": "PMC4644222",
+    "PMID": "26496604",
+    "source": "PubMed Central",
+    "title": "Early Divergent Strains of Yersinia pestis in Eurasia 5,000 Years Ago",
+    "type": "article-journal",
+    "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4644222/",
+    "volume": "163",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: rasmussen2015EarlyDivergentStrains"
+  },
+  {
+    "id": "11e70fLkA",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          4
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Seabold",
+        "given": "Skipper"
+      },
+      {
+        "family": "Perktold",
+        "given": "Josef"
+      }
+    ],
+    "DOI": "10.25080/Majora-92bf1922-011",
+    "event": "Python in Science Conference",
+    "event-place": "Austin, Texas",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "92-96",
+    "publisher-place": "Austin, Texas",
+    "source": "DOI.org (Crossref)",
+    "title": "Statsmodels: Econometric and Statistical Modeling with Python",
+    "title-short": "Statsmodels",
+    "type": "paper-conference",
+    "URL": "https://conference.scipy.org/proceedings/scipy2010/seabold.html",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: seabold2010StatsmodelsEconometricStatistical"
+  },
+  {
+    "id": "17ygZQMtK",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          8
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Seecharran",
+        "given": "Tristan"
+      },
+      {
+        "family": "Kalin-Manttari",
+        "given": "Laura"
+      },
+      {
+        "family": "Koskela",
+        "given": "Katja"
+      },
+      {
+        "family": "Nikkari",
+        "given": "Simo"
+      },
+      {
+        "family": "Dickins",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Corander",
+        "given": "Jukka"
+      },
+      {
+        "family": "Skurnik",
+        "given": "Mikael"
+      },
+      {
+        "family": "McNally",
+        "given": "AlanYR 2017"
+      }
+    ],
+    "container-title": "Microbial Genomics",
+    "DOI": "10.1099/mgen.0.000133",
+    "ISSN": "2057-5858,",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "e000133",
+    "publisher": "Microbiology Society,",
+    "source": "Microbiology Society Journals",
+    "title": "Phylogeographic separation and formation of sexually discrete lineages in a global population of Yersinia pseudotuberculosis",
+    "type": "article-journal",
+    "URL": "https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000133",
+    "volume": "3",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: seecharran2017PhylogeographicSeparationFormation"
+  },
+  {
+    "id": "FysHdic6",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          16
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Seemann",
+        "given": "Torsten"
+      }
+    ],
+    "genre": "Perl",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          8
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2014,
+          5,
+          15
+        ]
+      ]
+    },
+    "source": "GitHub",
+    "title": "Snippy: Rapid haploid variant calling and core genome alignment.",
+    "type": "book",
+    "URL": "https://github.com/tseemann/snippy",
+    "version": "4.6.8",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: seemann2020SnippyRapidHaploid"
+  },
+  {
+    "id": "39QXTupk",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          1
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Spyrou",
+        "given": "Maria A."
+      },
+      {
+        "family": "Tukhbatova",
+        "given": "Rezeda I."
+      },
+      {
+        "family": "Feldman",
+        "given": "Michal"
+      },
+      {
+        "family": "Drath",
+        "given": "Joanna"
+      },
+      {
+        "family": "Kacki",
+        "given": "Sacha"
+      },
+      {
+        "family": "Beltrán de Heredia",
+        "given": "Julia"
+      },
+      {
+        "family": "Arnold",
+        "given": "Susanne"
+      },
+      {
+        "family": "Sitdikov",
+        "given": "Airat G."
+      },
+      {
+        "family": "Castex",
+        "given": "Dominique"
+      },
+      {
+        "family": "Wahl",
+        "given": "Joachim"
+      },
+      {
+        "family": "Gazimzyanov",
+        "given": "Ilgizar R."
+      },
+      {
+        "family": "Nurgaliev",
+        "given": "Danis K."
+      },
+      {
+        "family": "Herbig",
+        "given": "Alexander"
+      },
+      {
+        "family": "Bos",
+        "given": "Kirsten I."
+      },
+      {
+        "family": "Krause",
+        "given": "Johannes"
+      }
+    ],
+    "container-title": "Cell Host & Microbe",
+    "DOI": "10.1016/j.chom.2016.05.012",
+    "ISSN": "19313128",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          6
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "874-881",
+    "source": "Crossref",
+    "title": "Historical <i>Y. pestis</i> Genomes Reveal the European Black Death as the Source of Ancient and Modern Plague Pandemics",
+    "type": "article-journal",
+    "URL": "http://linkinghub.elsevier.com/retrieve/pii/S1931312816302086",
+    "volume": "19",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: spyrou2016HistoricalPestisGenomes"
+  },
+  {
+    "id": "1CPIgshmC",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Spyrou",
+        "given": "Maria A."
+      },
+      {
+        "family": "Keller",
+        "given": "Marcel"
+      },
+      {
+        "family": "Tukhbatova",
+        "given": "Rezeda I."
+      },
+      {
+        "family": "Scheib",
+        "given": "Christiana L."
+      },
+      {
+        "family": "Nelson",
+        "given": "Elizabeth A."
+      },
+      {
+        "family": "Andrades Valtueña",
+        "given": "Aida"
+      },
+      {
+        "family": "Neumann",
+        "given": "Gunnar U."
+      },
+      {
+        "family": "Walker",
+        "given": "Don"
+      },
+      {
+        "family": "Alterauge",
+        "given": "Amelie"
+      },
+      {
+        "family": "Carty",
+        "given": "Niamh"
+      },
+      {
+        "family": "Cessford",
+        "given": "Craig"
+      },
+      {
+        "family": "Fetz",
+        "given": "Hermann"
+      },
+      {
+        "family": "Gourvennec",
+        "given": "Michaël"
+      },
+      {
+        "family": "Hartle",
+        "given": "Robert"
+      },
+      {
+        "family": "Henderson",
+        "given": "Michael"
+      },
+      {
+        "family": "Heyking",
+        "given": "Kristin",
+        "non-dropping-particle": "von"
+      },
+      {
+        "family": "Inskip",
+        "given": "Sarah A."
+      },
+      {
+        "family": "Kacki",
+        "given": "Sacha"
+      },
+      {
+        "family": "Key",
+        "given": "Felix M."
+      },
+      {
+        "family": "Knox",
+        "given": "Elizabeth L."
+      },
+      {
+        "family": "Later",
+        "given": "Christian"
+      },
+      {
+        "family": "Maheshwari-Aplin",
+        "given": "Prishita"
+      },
+      {
+        "family": "Peters",
+        "given": "Joris"
+      },
+      {
+        "family": "Robb",
+        "given": "John E."
+      },
+      {
+        "family": "Schreiber",
+        "given": "Jürgen"
+      },
+      {
+        "family": "Kivisild",
+        "given": "Toomas"
+      },
+      {
+        "family": "Castex",
+        "given": "Dominique"
+      },
+      {
+        "family": "Lösch",
+        "given": "Sandra"
+      },
+      {
+        "family": "Harbeck",
+        "given": "Michaela"
+      },
+      {
+        "family": "Herbig",
+        "given": "Alexander"
+      },
+      {
+        "family": "Bos",
+        "given": "Kirsten I."
+      },
+      {
+        "family": "Krause",
+        "given": "Johannes"
+      }
+    ],
+    "container-title": "Nature Communications",
+    "DOI": "10.1038/s41467-019-12154-0",
+    "ISSN": "2041-1723",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          10,
+          2
+        ]
+      ]
+    },
+    "language": "en",
+    "number": "1",
+    "page": "4470",
+    "publisher": "Nature Publishing Group",
+    "source": "www.nature.com",
+    "title": "Phylogeography of the second plague pandemic revealed through analysis of historical Yersinia pestis genomes",
+    "type": "article-journal",
+    "URL": "https://www.nature.com/articles/s41467-019-12154-0",
+    "volume": "10",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: spyrou2019PhylogeographySecondPlague"
+  },
+  {
+    "id": "14eJbOlxZ",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          8
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Volz",
+        "given": "Erik M"
+      },
+      {
+        "family": "Carsten",
+        "given": "Wiuf"
+      },
+      {
+        "family": "Grad",
+        "given": "Yonatan H"
+      },
+      {
+        "family": "Frost",
+        "given": "Simon D W"
+      },
+      {
+        "family": "Dennis",
+        "given": "Ann M"
+      },
+      {
+        "family": "Didelot",
+        "given": "Xavier"
+      }
+    ],
+    "container-title": "Systematic Biology",
+    "container-title-short": "Systematic Biology",
+    "DOI": "10.1093/sysbio/syaa009",
+    "ISSN": "1063-5157",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          1
+        ]
+      ]
+    },
+    "page": "884-896",
+    "source": "Silverchair",
+    "title": "Identification of Hidden Population Structure in Time-Scaled Phylogenies",
+    "type": "article-journal",
+    "URL": "https://doi.org/10.1093/sysbio/syaa009",
+    "volume": "69",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: volz2020IdentificationHiddenPopulation"
+  },
+  {
+    "id": "ACt53Sow",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          21
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Wagner",
+        "given": "David M"
+      },
+      {
+        "family": "Klunk",
+        "given": "Jennifer"
+      },
+      {
+        "family": "Harbeck",
+        "given": "Michaela"
+      },
+      {
+        "family": "Devault",
+        "given": "Alison"
+      },
+      {
+        "family": "Waglechner",
+        "given": "Nicholas"
+      },
+      {
+        "family": "Sahl",
+        "given": "Jason W"
+      },
+      {
+        "family": "Enk",
+        "given": "Jacob"
+      },
+      {
+        "family": "Birdsell",
+        "given": "Dawn N"
+      },
+      {
+        "family": "Kuch",
+        "given": "Melanie"
+      },
+      {
+        "family": "Lumibao",
+        "given": "Candice"
+      },
+      {
+        "family": "Poinar",
+        "given": "Debi"
+      },
+      {
+        "family": "Pearson",
+        "given": "Talima"
+      },
+      {
+        "family": "Fourment",
+        "given": "Mathieu"
+      },
+      {
+        "family": "Golding",
+        "given": "Brian"
+      },
+      {
+        "family": "Riehm",
+        "given": "Julia M"
+      },
+      {
+        "family": "Earn",
+        "given": "David J D"
+      },
+      {
+        "family": "DeWitte",
+        "given": "Sharon"
+      },
+      {
+        "family": "Rouillard",
+        "given": "Jean-Marie"
+      },
+      {
+        "family": "Grupe",
+        "given": "Gisela"
+      },
+      {
+        "family": "Wiechmann",
+        "given": "Ingrid"
+      },
+      {
+        "family": "Bliska",
+        "given": "James B"
+      },
+      {
+        "family": "Keim",
+        "given": "Paul S"
+      },
+      {
+        "family": "Scholz",
+        "given": "Holger C"
+      },
+      {
+        "family": "Holmes",
+        "given": "Edward C"
+      },
+      {
+        "family": "Poinar",
+        "given": "Hendrik"
+      }
+    ],
+    "container-title": "The Lancet Infectious Diseases",
+    "DOI": "10.1016/S1473-3099(13)70323-2",
+    "ISSN": "14733099",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          4
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "319-326",
+    "source": "Crossref",
+    "title": "<i>Yersinia pestis</i> and the Plague of Justinian 541–543 AD: a genomic analysis",
+    "title-short": "Yersinia pestis and the Plague of Justinian 541–543 AD",
+    "type": "article-journal",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1473309913703232",
+    "volume": "14",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: wagner2014YersiniaPestisPlague"
+  },
+  {
+    "id": "h4WAqbKy",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          11
+        ]
+      ]
+    },
+    "container-title": "World Health Organization",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          31
+        ]
+      ]
+    },
+    "language": "en",
+    "source": "www.who.int",
+    "title": "Plague",
+    "type": "webpage",
+    "URL": "https://www.who.int/news-room/fact-sheets/detail/plague",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: who2017Plague"
+  },
+  {
+    "id": "MDriN15G",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          26
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Williamson",
+        "given": "Deborah A."
+      },
+      {
+        "family": "Baines",
+        "given": "Sarah L."
+      },
+      {
+        "family": "Carter",
+        "given": "Glen P."
+      },
+      {
+        "family": "Silva",
+        "given": "Anders Gonçalves",
+        "non-dropping-particle": "da"
+      },
+      {
+        "family": "Ren",
+        "given": "Xiaoyun"
+      },
+      {
+        "family": "Sherwood",
+        "given": "Jill"
+      },
+      {
+        "family": "Dufour",
+        "given": "Muriel"
+      },
+      {
+        "family": "Schultz",
+        "given": "Mark B."
+      },
+      {
+        "family": "French",
+        "given": "Nigel P."
+      },
+      {
+        "family": "Seemann",
+        "given": "Torsten"
+      },
+      {
+        "family": "Stinear",
+        "given": "Timothy P."
+      },
+      {
+        "family": "Howden",
+        "given": "Benjamin P."
+      }
+    ],
+    "container-title": "Genome Biology and Evolution",
+    "container-title-short": "Genome Biology and Evolution",
+    "DOI": "10.1093/gbe/evw285",
+    "ISSN": "1759-6653",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          12,
+          1
+        ]
+      ]
+    },
+    "page": "3806-3814",
+    "source": "Silverchair",
+    "title": "Genomic Insights into a Sustained National Outbreak of Yersinia pseudotuberculosis",
+    "type": "article-journal",
+    "URL": "https://doi.org/10.1093/gbe/evw285",
+    "volume": "8",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: williamson2016GenomicInsightsSustained"
+  },
+  {
+    "id": "RWkOSyzX",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          26
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Xu",
+        "given": "Lei"
+      },
+      {
+        "family": "Stige",
+        "given": "Leif Chr."
+      },
+      {
+        "family": "Kausrud",
+        "given": "Kyrre Linné"
+      },
+      {
+        "family": "Ben Ari",
+        "given": "Tamara"
+      },
+      {
+        "family": "Wang",
+        "given": "Shuchun"
+      },
+      {
+        "family": "Fang",
+        "given": "Xiye"
+      },
+      {
+        "family": "Schmid",
+        "given": "Boris V."
+      },
+      {
+        "family": "Liu",
+        "given": "Qiyong"
+      },
+      {
+        "family": "Stenseth",
+        "given": "Nils Chr."
+      },
+      {
+        "family": "Zhang",
+        "given": "Zhibin"
+      }
+    ],
+    "container-title": "Proceedings of the Royal Society B: Biological Sciences",
+    "container-title-short": "Proceedings of the Royal Society B: Biological Sciences",
+    "DOI": "10.1098/rspb.2013.3159",
+    "issue": "1780",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          4,
+          7
+        ]
+      ]
+    },
+    "page": "20133159",
+    "publisher": "Royal Society",
+    "source": "royalsocietypublishing.org (Atypon)",
+    "title": "Wet climate and transportation routes accelerate spread of human plague",
+    "type": "article-journal",
+    "URL": "https://royalsocietypublishing.org/doi/10.1098/rspb.2013.3159",
+    "volume": "281",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: xu2014WetClimateTransportation"
+  },
+  {
+    "id": "pjjiQi2H",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          23
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Xu",
+        "given": "Lei"
+      },
+      {
+        "family": "Stige",
+        "given": "Leif C."
+      },
+      {
+        "family": "Leirs",
+        "given": "Herwig"
+      },
+      {
+        "family": "Neerinckx",
+        "given": "Simon"
+      },
+      {
+        "family": "Gage",
+        "given": "Kenneth L."
+      },
+      {
+        "family": "Yang",
+        "given": "Ruifu"
+      },
+      {
+        "family": "Liu",
+        "given": "Qiyong"
+      },
+      {
+        "family": "Bramanti",
+        "given": "Barbara"
+      },
+      {
+        "family": "Dean",
+        "given": "Katharine R."
+      },
+      {
+        "family": "Tang",
+        "given": "Hui"
+      },
+      {
+        "family": "Sun",
+        "given": "Zhe"
+      },
+      {
+        "family": "Stenseth",
+        "given": "Nils Chr"
+      },
+      {
+        "family": "Zhang",
+        "given": "Zhibin"
+      }
+    ],
+    "container-title": "Proceedings of the National Academy of Sciences",
+    "container-title-short": "PNAS",
+    "DOI": "10.1073/pnas.1901366116",
+    "ISSN": "0027-8424, 1091-6490",
+    "issue": "24",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          11
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "11833-11838",
+    "PMID": "31138696",
+    "publisher": "National Academy of Sciences",
+    "section": "Biological Sciences",
+    "source": "www.pnas.org",
+    "title": "Historical and genomic data reveal the influencing factors on global transmission velocity of plague during the Third Pandemic",
+    "type": "article-journal",
+    "URL": "https://www.pnas.org/content/116/24/11833",
+    "volume": "116",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: xu2019HistoricalGenomicData"
+  },
+  {
+    "id": "17yD9OrGW",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          18
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Yates",
+        "given": "James A. Fellows"
+      },
+      {
+        "family": "Lamnidis",
+        "given": "Thiseas C."
+      },
+      {
+        "family": "Borry",
+        "given": "Maxime"
+      },
+      {
+        "family": "Valtueña",
+        "given": "Aida Andrades"
+      },
+      {
+        "family": "Fagernäs",
+        "given": "Zandra"
+      },
+      {
+        "family": "Clayton",
+        "given": "Stephen"
+      },
+      {
+        "family": "Garcia",
+        "given": "Maxime U."
+      },
+      {
+        "family": "Neukamm",
+        "given": "Judith"
+      },
+      {
+        "family": "Peltzer",
+        "given": "Alexander"
+      }
+    ],
+    "container-title": "PeerJ",
+    "container-title-short": "PeerJ",
+    "DOI": "10.7717/peerj.10947",
+    "ISSN": "2167-8359",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          16
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "e10947",
+    "publisher": "PeerJ Inc.",
+    "source": "peerj.com",
+    "title": "Reproducible, portable, and efficient ancient genome reconstruction with nf-core/eager",
+    "type": "article-journal",
+    "URL": "https://peerj.com/articles/10947",
+    "volume": "9",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: yates2021ReproduciblePortableEfficient"
+  },
+  {
+    "id": "1093vihdz",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          15
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Yue",
+        "given": "Ricci P. H."
+      },
+      {
+        "family": "Lee",
+        "given": "Harry F."
+      },
+      {
+        "family": "Wu",
+        "given": "Connor Y. H."
+      }
+    ],
+    "container-title": "Scientific Reports",
+    "container-title-short": "Sci Rep",
+    "DOI": "10.1038/s41598-017-13481-2",
+    "ISSN": "2045-2322",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          11
+        ]
+      ]
+    },
+    "PMCID": "PMC5636801",
+    "PMID": "29021541",
+    "source": "PubMed Central",
+    "title": "Trade routes and plague transmission in pre-industrial Europe",
+    "type": "article-journal",
+    "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5636801/",
+    "volume": "7",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: yue2017TradeRoutesPlague"
+  },
+  {
+    "id": "cIuFxbEY",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          15
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "Dongsheng"
+      },
+      {
+        "family": "Han",
+        "given": "Yanping"
+      },
+      {
+        "family": "Song",
+        "given": "Yajun"
+      },
+      {
+        "family": "Huang",
+        "given": "Peitang"
+      },
+      {
+        "family": "Yang",
+        "given": "Ruifu"
+      }
+    ],
+    "container-title": "Microbes and Infection",
+    "container-title-short": "Microbes and Infection",
+    "DOI": "10.1016/j.micinf.2004.08.002",
+    "ISSN": "1286-4579",
+    "issue": "13",
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          11,
+          1
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "1226-1234",
+    "source": "ScienceDirect",
+    "title": "Comparative and evolutionary genomics of <i>Yersinia pestis</i>",
+    "type": "article-journal",
+    "URL": "http://www.sciencedirect.com/science/article/pii/S1286457904002357",
+    "volume": "6",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: zhou2004ComparativeEvolutionaryGenomics"
+  },
+  {
+    "id": "E2sCnrTc",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          15
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "Zhemin"
+      },
+      {
+        "family": "Alikhan",
+        "given": "Nabil-Fareed"
+      },
+      {
+        "family": "Mohamed",
+        "given": "Khaled"
+      },
+      {
+        "family": "Fan",
+        "given": "Yulei"
+      },
+      {
+        "family": "Achtman",
+        "given": "Mark"
+      }
+    ],
+    "container-title": "Genome Research",
+    "container-title-short": "Genome Res",
+    "DOI": "10.1101/gr.251678.119",
+    "ISSN": "1088-9051",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1
+        ]
+      ]
+    },
+    "page": "138-152",
+    "PMCID": "PMC6961584",
+    "PMID": "31809257",
+    "source": "PubMed Central",
+    "title": "The EnteroBase user's guide, with case studies on <i>Salmonella</i> transmissions, <i>Yersinia pestis</i> phylogeny, and <i>Escherichia</i> core genomic diversity",
+    "type": "article-journal",
+    "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6961584/",
+    "volume": "30",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: zhou2020EnteroBaseUserGuide"
+  }
+]
