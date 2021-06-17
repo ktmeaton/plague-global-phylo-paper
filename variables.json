@@ -1,6 +1,6 @@
 {
   "pandoc": {
-    "title": "Manuscript Title",
+    "title": "Plagued by a cryptic clock",
     "keywords": [
       "markdown",
       "publishing",
@@ -9,10 +9,12 @@
     "lang": "en-US",
     "date-meta": "2021-06-17",
     "author-meta": [
-      "John Doe",
-      "Jane Roe"
+      "Katherine Eaton",
+      "Leo Featherstone",
+      "Sebastian Duchene",
+      "Hendrik Poinar"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2021-06-17\" />\n<meta name=\"citation_publication_date\" content=\"2021-06-17\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://ktmeaton.github.io/plague-phylo-paper/\" />\n<meta property=\"og:url\" content=\"https://ktmeaton.github.io/plague-phylo-paper/\" />\n<meta property=\"twitter:url\" content=\"https://ktmeaton.github.io/plague-phylo-paper/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://ktmeaton.github.io/plague-phylo-paper/\" />\n<meta name=\"citation_pdf_url\" content=\"https://ktmeaton.github.io/plague-phylo-paper/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://ktmeaton.github.io/plague-phylo-paper/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://ktmeaton.github.io/plague-phylo-paper/v/a38ccddcc0cad94d6e4ecb29e9903a949b69ba2e/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://ktmeaton.github.io/plague-phylo-paper/v/a38ccddcc0cad94d6e4ecb29e9903a949b69ba2e/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://ktmeaton.github.io/plague-phylo-paper/v/a38ccddcc0cad94d6e4ecb29e9903a949b69ba2e/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Plagued by a cryptic clock\" />\n<meta name=\"citation_title\" content=\"Plagued by a cryptic clock\" />\n<meta property=\"og:title\" content=\"Plagued by a cryptic clock\" />\n<meta property=\"twitter:title\" content=\"Plagued by a cryptic clock\" />\n<meta name=\"dc.date\" content=\"2021-06-17\" />\n<meta name=\"citation_publication_date\" content=\"2021-06-17\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Katherine Eaton\" />\n<meta name=\"citation_author_institution\" content=\"Ancient DNA Centre, McMaster University\" />\n<meta name=\"citation_author_institution\" content=\"Department of Anthropology, McMaster University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-6862-7756\" />\n<meta name=\"citation_author\" content=\"Leo Featherstone\" />\n<meta name=\"citation_author_institution\" content=\"The Peter Doherty Institute For Infection and Immunity, University of Melbourne\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8878-1758\" />\n<meta name=\"citation_author\" content=\"Sebastian Duchene\" />\n<meta name=\"citation_author_institution\" content=\"The Peter Doherty Institute For Infection and Immunity, University of Melbourne\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-2863-0907\" />\n<meta name=\"citation_author\" content=\"Hendrik Poinar\" />\n<meta name=\"citation_author_institution\" content=\"Ancient DNA Centre, McMaster University\" />\n<meta name=\"citation_author_institution\" content=\"Department of Anthropology, McMaster University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-0314-4160\" />\n<link rel=\"canonical\" href=\"https://ktmeaton.github.io/plague-global-phylo-paper/\" />\n<meta property=\"og:url\" content=\"https://ktmeaton.github.io/plague-global-phylo-paper/\" />\n<meta property=\"twitter:url\" content=\"https://ktmeaton.github.io/plague-global-phylo-paper/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://ktmeaton.github.io/plague-global-phylo-paper/\" />\n<meta name=\"citation_pdf_url\" content=\"https://ktmeaton.github.io/plague-global-phylo-paper/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://ktmeaton.github.io/plague-global-phylo-paper/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://ktmeaton.github.io/plague-global-phylo-paper/v/8ad258504a5c600f422787d2f5d8b5eaea004efc/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://ktmeaton.github.io/plague-global-phylo-paper/v/8ad258504a5c600f422787d2f5d8b5eaea004efc/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://ktmeaton.github.io/plague-global-phylo-paper/v/8ad258504a5c600f422787d2f5d8b5eaea004efc/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -25,31 +27,58 @@
     "date": "June 17, 2021",
     "authors": [
       {
-        "github": "johndoe",
-        "name": "John Doe",
-        "initials": "JD",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "twitter": "johndoe",
-        "email": "john.doe@something.com",
+        "name": "Katherine Eaton",
+        "github": "ktmeaton",
+        "initials": "KE",
+        "orcid": "0000-0001-6862-7756",
+        "email": "ktmeaton@gmail.com",
         "affiliations": [
-          "Department of Something, University of Whatever"
+          "Ancient DNA Centre, McMaster University",
+          "Department of Anthropology, McMaster University"
         ],
         "funders": [
-          "Grant XXXXXXXX"
+          "Social Sciences and Humanities Research Council XXXXXXXX"
         ],
         "affiliation_numbers": [
-          1
+          1,
+          2
         ]
       },
       {
-        "github": "janeroe",
-        "name": "Jane Roe",
-        "initials": "JR",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "email": "jane.roe@whatever.edu",
+        "name": "Leo Featherstone",
+        "github": null,
+        "initials": "LF",
+        "orcid": "0000-0002-8878-1758",
+        "email": null,
         "affiliations": [
-          "Department of Something, University of Whatever",
-          "Department of Whatever, University of Something"
+          "The Peter Doherty Institute For Infection and Immunity, University of Melbourne"
+        ],
+        "affiliation_numbers": [
+          3
+        ]
+      },
+      {
+        "name": "Sebastian Duchene",
+        "github": "sebastianduchene",
+        "initials": "SD",
+        "orcid": "0000-0002-2863-0907",
+        "email": null,
+        "affiliations": [
+          "The Peter Doherty Institute For Infection and Immunity, University of Melbourne"
+        ],
+        "affiliation_numbers": [
+          3
+        ]
+      },
+      {
+        "name": "Hendrik Poinar",
+        "github": null,
+        "initials": "HNP",
+        "orcid": "0000-0002-0314-4160",
+        "email": null,
+        "affiliations": [
+          "Ancient DNA Centre, McMaster University",
+          "Department of Anthropology, McMaster University"
         ],
         "affiliation_numbers": [
           1,
@@ -59,32 +88,37 @@
     ],
     "affiliations": [
       {
-        "affiliation": "Department of Something, University of Whatever",
+        "affiliation": "Ancient DNA Centre, McMaster University",
         "affiliation_number": 1
       },
       {
-        "affiliation": "Department of Whatever, University of Something",
+        "affiliation": "Department of Anthropology, McMaster University",
         "affiliation_number": 2
+      },
+      {
+        "affiliation": "The Peter Doherty Institute For Infection and Immunity, University of Melbourne",
+        "affiliation_number": 3
       }
     ],
     "ci_source": {
       "provider": "github",
-      "repo_slug": "ktmeaton/plague-phylo-paper",
+      "repo_slug": "ktmeaton/plague-global-phylo-paper",
       "repo_owner": "ktmeaton",
-      "repo_name": "plague-phylo-paper",
-      "commit": "a38ccddcc0cad94d6e4ecb29e9903a949b69ba2e",
-      "triggering_commit": "a38ccddcc0cad94d6e4ecb29e9903a949b69ba2e",
-      "build_url": "https://github.com/ktmeaton/plague-phylo-paper/commit/a38ccddcc0cad94d6e4ecb29e9903a949b69ba2e/checks",
-      "job_url": "https://github.com/ktmeaton/plague-phylo-paper/runs/run3"
+      "repo_name": "plague-global-phylo-paper",
+      "commit": "8ad258504a5c600f422787d2f5d8b5eaea004efc",
+      "triggering_commit": "8ad258504a5c600f422787d2f5d8b5eaea004efc",
+      "build_url": "https://github.com/ktmeaton/plague-global-phylo-paper/commit/8ad258504a5c600f422787d2f5d8b5eaea004efc/checks",
+      "job_url": "https://github.com/ktmeaton/plague-global-phylo-paper/runs/run3"
     },
-    "html_url": "https://ktmeaton.github.io/plague-phylo-paper/",
-    "pdf_url": "https://ktmeaton.github.io/plague-phylo-paper/manuscript.pdf",
-    "html_url_versioned": "https://ktmeaton.github.io/plague-phylo-paper/v/a38ccddcc0cad94d6e4ecb29e9903a949b69ba2e/",
-    "pdf_url_versioned": "https://ktmeaton.github.io/plague-phylo-paper/v/a38ccddcc0cad94d6e4ecb29e9903a949b69ba2e/manuscript.pdf",
+    "html_url": "https://ktmeaton.github.io/plague-global-phylo-paper/",
+    "pdf_url": "https://ktmeaton.github.io/plague-global-phylo-paper/manuscript.pdf",
+    "html_url_versioned": "https://ktmeaton.github.io/plague-global-phylo-paper/v/8ad258504a5c600f422787d2f5d8b5eaea004efc/",
+    "pdf_url_versioned": "https://ktmeaton.github.io/plague-global-phylo-paper/v/8ad258504a5c600f422787d2f5d8b5eaea004efc/manuscript.pdf",
     "manubot_version": "0.5.1",
     "rootstock_commit": "defe787b0ad8a21a745cc82c3117770896caaf8b",
     "manuscript_stats": {
-      "word_count": 1404
+      "word_count": 939
     }
-  }
+  },
+  "subtitle": "New insights from the global phylogeny of <i>Yersinia pestis</i>"
 }
